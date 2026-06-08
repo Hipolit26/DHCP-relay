@@ -11,5 +11,5 @@ Mise en place de 2 LAN avec routage et DHCP relay
 
 ## Screenshots
 
-![App Screenshot](images/topology.png)
-![App Screenshot](images/Adressage_IP.png)
+![App Screenshot](DHCP_relay/images/Adressage_IP.png)
+![App Screenshot](DHCP_relay/images/Adressage_IP.png)
